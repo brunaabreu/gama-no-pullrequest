@@ -13,5 +13,7 @@
 9. Abra um PullRequest com suas alterações  :white_check_mark:
 
 // Estou adorando o curso!!! :purple_heart:
+
 // Módulo 03 - GIT :rocket:
+
 [Gama Academy](https://www.gama.academy/ "Gama Academy")
